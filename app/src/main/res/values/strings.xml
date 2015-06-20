@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sinam</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- MainActivity -->
+    <string name="generalError">There was an error</string>
+    <string name="documentDialogTitle">Enter a title</string>
+
+    <!-- ListDocumentsActivity -->
+    <string name="myDocuments">Your Documents</string>
+
+    <!-- DocumentDetailActivity -->
+    <string name="detailDescription">Document Body</string>
+    <string name="date">Date</string>
+
+</resources>
